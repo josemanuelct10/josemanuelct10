@@ -1,6 +1,6 @@
 # 👋 Hola, soy José Manuel Cañete!
 
-🔧 **Desarrollador Web y Móvil** con experiencia en diversas tecnologías. Tengo 21 años y estoy buscando mi primer empleo en el **desarrollo web**. Aunque me inclino más hacia el **backend**, estoy muy motivado para aprender y explorar tanto el frontend como el backend.
+🔧 **Desarrollador Web** con experiencia en diversas tecnologías. Tengo 21 años y estoy buscando mi primer empleo en el **desarrollo web**. Aunque me inclino más hacia el **backend**, estoy muy motivado para aprender y explorar tanto el frontend como el backend.
 
 ## 🚀 Proyectos Destacados
 
