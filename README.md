@@ -21,7 +21,6 @@ Trabajo con tests antes de cambiar código, despliegues automatizados y decision
 
 ## Proyectos públicos
 
-- **[Acortador de URLs](https://github.com/josemanuelct10/Acortador-Urls)**: Angular + Node.js con registro y login por JWT. [Demo](https://acortador-url-jmct.netlify.app/)
 - **[Pescadería: frontend](https://github.com/josemanuelct10/AppFront)** y **[API](https://github.com/josemanuelct10/API_Pescaderia)**: gestión de pedidos, inventario y facturas con Angular y una API en Laravel con tokens y permisos por rol.
 - **[FutbolScore](https://github.com/josemanuelct10/FutbolScore)**: app Android en Kotlin con Firebase.
 
