@@ -1,32 +1,34 @@
-# 👋 Hola, soy José Manuel Cañete!
+# José Manuel Cañete
 
-🔧 **Desarrollador Web** con experiencia en diversas tecnologías. Tengo 21 años y estoy buscando mi primer empleo en el **desarrollo web**. Aunque me inclino más hacia el **backend**, estoy muy motivado para aprender y explorar tanto el frontend como el backend.
+**Desarrollador Full-Stack · Backend** (Node.js · Angular) · Córdoba, España · Remoto o híbrido
 
-## 🚀 Proyectos Destacados
+Desde marzo de 2024 soy responsable de desarrollo de software en **Horizon Property Management (International Coverpool)**, fabricante de cubiertas de piscina. Desarrollo y mantengo sus aplicaciones en producción: la plataforma de la fábrica, el ERP, la tienda online, un asesor con IA, una app móvil y el portal del empleado.
 
-- **[FutbolScore](#)** ⚽  
-  Una aplicación móvil en Kotlin para ver resultados de partidos de fútbol, información de equipos y jugadores. Utiliza Firebase Database para almacenar datos y Firebase Storage para imágenes. 📊📸
+Trabajo con tests antes de cambiar código, despliegues automatizados y decisiones documentadas.
 
-- **[Pescados Cañete Trillo](#)** 🐟  
-  Aplicación web para la gestión de inventario y pedidos en una pescadería. Desarrollada con **Laravel** en el backend, **Angular** en el frontend y una base de datos SQL. Implementa seguridad con tokens y middleware. 🛒🔐
+> El código de la empresa es privado. Cada proyecto está explicado, con contexto, decisiones y resultados, en mi portfolio: **[josemanuelcanete.netlify.app](https://josemanuelcanete.netlify.app)**
 
-- **[International Coverpool](#)** 🌍  
-  Aplicación móvil en **Ionic** para crear presupuestos y generar PDFs. Usa **ngx-translate** para soportar español, inglés y portugués. Backend en **Node.js** con **Express.js**. 📈📝
+## En producción
 
-## 🔍 Áreas de Interés
+| Proyecto | Qué hice | Stack |
+|---|---|---|
+| **Plataforma de operaciones** | Migración de Angular 12 → 22 y Node 14 → 22 sin parar la fábrica. 151 tests en cada despliegue, con vuelta atrás automática. | Angular · Node.js · Express · MariaDB · Jenkins |
+| **ERP de pedidos y presupuestos** | Actualización de PHP 7.2 → 8.5 sin cambios de comportamiento, con tests de caracterización y de contrato. | PHP · CodeIgniter · Vue.js · MySQL |
+| **Calculadora de cubiertas** | Web component en Angular integrado en WooCommerce, en 5 idiomas, que envía cada pedido al ERP. | Angular Elements · Express · WordPress |
+| **Asesor de producto con IA** | RAG en la web pública: búsqueda híbrida y precios calculados sin el LLM. ~250 conversaciones al mes. | Python · FastAPI · Qdrant · Redis · OpenAI |
+| **App móvil de presupuestos** | Formas de piscina, presupuesto en PDF al momento y control de acceso por rol. | Ionic · Angular · Capacitor · Express |
+| **Portal del empleado** | Intranet de RRHH construida desde cero, usada por 30 empleados. | Angular · Express · MySQL · JWT |
 
-- **Backend Development** 🖥️  
-- **Frontend Development** 💻  
-- **Database Management** 📂  
-- **App Development** 📱
+## Proyectos públicos
 
-## 💡 Aficiones
+- **[Acortador de URLs](https://github.com/josemanuelct10/Acortador-Urls)**: Angular + Node.js con registro y login por JWT. [Demo](https://acortador-url-jmct.netlify.app/)
+- **[Pescadería: frontend](https://github.com/josemanuelct10/AppFront)** y **[API](https://github.com/josemanuelct10/API_Pescaderia)**: gestión de pedidos, inventario y facturas con Angular y una API en Laravel con tokens y permisos por rol.
+- **[FutbolScore](https://github.com/josemanuelct10/FutbolScore)**: app Android en Kotlin con Firebase.
 
-Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. Disfruto trabajando en equipo y tengo flexibilidad para adaptarme a diferentes roles y desafíos. 🌟
+## Stack
 
-## 📫 Contáctame
+`Node.js` `TypeScript` `Express` `Angular` `PHP` `Python` `MySQL / MariaDB` `Redis` `Qdrant` `Docker` `Jenkins`
 
-- **LinkedIn:** [Tu LinkedIn](www.linkedin.com/in/josemanuelct)  
-- **Correo:** [Tu Correo](mailto:josemanuel30503@hotmail.com)  
+## Contacto
 
-¡Estoy emocionado por conectarme y explorar nuevas oportunidades!
+[Portfolio](https://josemanuelcanete.netlify.app) · [LinkedIn](https://www.linkedin.com/in/josemanuelct) · trabajojmct@gmail.com
